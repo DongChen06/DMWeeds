@@ -38,3 +38,9 @@ Codes will be relased soon!
      <br> Fig.6 Generated weed samples for DeepWeeds dataset by StyleGAN2. Each column represents one weed class.
 </p>
 
+**StyleGAN3**
+<p align="center">
+     <img src="docs/figs/samples_CottonWeeds_StyleGAN3.png" alt="output_example" width="80%" height="40%">
+     <br> Fig.5 Generated weed samples for CottonWeedID15 dataset by StyleGAN3. Each column represents one weed class.
+</p>
+
