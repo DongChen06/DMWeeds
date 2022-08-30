@@ -6,7 +6,7 @@ Codes will be relased soon!
 ## Generated Samples
 Performance comparison between diffusion models and GANs.
 <p align="center">
-     <img src="docs/figs/performance.png" alt="output_example" width="80%" height="40%">
+     <img src="docs/figs/performance.png" alt="output_example" width="30%" height="30%">
      <br> Fig.1 Performance comparison between diffusion models and state-of-the-art GANs. Best values are in bold.
 </p>
 
