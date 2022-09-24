@@ -1,0 +1,7 @@
+efficientnet_pytorch
+torchsummary
+tensorboard
+setuptools==59.5.0
+sklearn
+pandas
+pretrainedmodels
